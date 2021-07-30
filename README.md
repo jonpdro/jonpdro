@@ -1,9 +1,10 @@
 # Olá pessoas, sou o João Cruz! 🌊
 
 <div>
-  <a href="https://github.com/jonpdro">
+  <a href="https://github.com/jonpdro"><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&layout=compact&langs_count=7&theme=merko">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
+  </a>
 </div>
 
 ##
