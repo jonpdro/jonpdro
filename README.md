@@ -1,4 +1,4 @@
-# Olá pessoas, sou o João Cruz! 🌊
+## Olá pessoas, sou o João Cruz! 🌊
 
 <div>
   <a href="https://github.com/jonpdro">
