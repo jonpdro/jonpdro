@@ -1,4 +1,5 @@
 # Olá pessoas, sou o João Cruz! 🌊
+ <a href="https://github.com/jonpdro">
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -9,8 +10,8 @@
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Joao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
 </div>
+ </a>
 
   ##
   
