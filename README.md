@@ -1,4 +1,4 @@
-### "Aoba" Devss 👋
+### "Aoba" devs 👋
 
 Eu amo programar e aprender mais sobre o mundo da tecnologia, quero fazer parte dessa revolução.
 
@@ -46,7 +46,8 @@ public static void main(String args[]){
 <br>
 
 #### Rede Sociais!
-
-📷 [instagram -> https://www.instagram.com/jonpdro/] **|** 
-👔 [linkedin -> https://www.linkedin.com/in/joaopdrocruz/]
+<div>
+  <a href="https://www.instagram.com/jonpdro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaopdrocruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
 
