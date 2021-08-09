@@ -1,30 +1,52 @@
-## <p align="center"> Olá pessoas, eu sou o João Cruz! 🌊
+### "Aoba" Devss 👋
+
+Eu amo programar e aprender mais sobre o mundo da tecnologia, quero fazer parte dessa revolução.
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="376" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```java
+public static void main(String args[]){
+    Dev me = new Dev();
+
+    me.name = "João Pedro da Cruz Gomes";
+    me.nicknames = "Jordan/J.P";
+    me.applications = "Java, C#, CSS, HTML, PHP";
+    me.tools = "Git, VSCode, Eclipse";
+    me.skills = "Front-end, Back-end, SoftSkills";
+}
+```
+
+## **Linguagens e Ferramentas:**  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"></code>
+<code><img height="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
 
- <a href="https://github.com/jonpdro">
- <div>
-   <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&layout=compact&langs_count=7&theme=tokyonight"/>
-  </p>
-</div>
- <div style="display: inline_block">
-   <p align="center">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Joao-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> </a>
- <a href="https://instagram.com/jonpdro" target="_blank"> <p align="center"><img margin-left= "center" margin-right="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-  <a href = "mailto:jpcgomes0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/joaopdrocruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
- </p>
- </div>
- 
- ##
- 
- <div>
- <p align="center">
-  <img src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966" target="_blank"/>
-  </p>
-</div>
+## **GitHub Estatísticas**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&theme=tokyonight&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&theme=tokyonight&line_height=27" alt="JoãoPedro github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+<br>
+
+#### Rede Sociais!
+
+📷 [instagram -> https://www.instagram.com/jonpdro/] **|** 
+👔 [linkedin -> https://www.linkedin.com/in/joaopdrocruz/]
 
