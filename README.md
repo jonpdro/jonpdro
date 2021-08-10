@@ -12,7 +12,8 @@ public static void main(String args[]){
     Dev me = new Dev();
 
     me.name = "João Pedro da Cruz Gomes";
-    me.nicknames = "Jordan/J.P";
+    me.years = 18;
+    me.nicknames = "Jon - Jordan - J.P";
     me.applications = "Java, C#, CSS, HTML, PHP";
     me.tools = "Git, VSCode, Eclipse";
     me.skills = "Front-end, Back-end, SoftSkills";
