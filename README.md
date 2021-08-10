@@ -13,7 +13,7 @@ public static void main(String args[]){
 
     me.name = "João Pedro da Cruz Gomes";
     me.years = 18;
-    me.nicknames = "Jon - Jordan - J.P";
+    me.nicknames = "Jon, Jordan, JP";
     me.applications = "Java, C#, CSS, HTML, PHP";
     me.tools = "Git, VSCode, Eclipse";
     me.skills = "Front-end, Back-end, SoftSkills";
