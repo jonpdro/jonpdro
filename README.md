@@ -32,19 +32,14 @@ public static void main(String args[]){
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/jonpdro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&theme=tokyonight&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/jonpdro">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&theme=tokyonight&line_height=27" alt="JoãoPedro github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
 #### Rede Sociais!
