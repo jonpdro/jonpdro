@@ -21,28 +21,13 @@ public static void main(String args[]){
 ```
 
 ## **Linguagens e Ferramentas:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"></code>
-<code><img height="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>|<code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>|<code><img height="30" src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200"></code>|<code><img height="30" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>|<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>|<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>|<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+|--|--|--|--|--|--|--|
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/jonpdro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&theme=tokyonight&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/jonpdro">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&theme=tokyonight&line_height=27" alt="JoãoPedro github stats"/>
-</a>
-
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&theme=outrun&hide_langs_below=1"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&theme=outrun&line_height=27" alt="JoãoPedro github stats" />
+|--|--|
 
 #### Rede Sociais!
-<div>
-  <a href="https://www.instagram.com/jonpdro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopdrocruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+<a href="https://www.instagram.com/jonpdro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>|<a href="https://www.linkedin.com/in/joaopdrocruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+|--|--|
