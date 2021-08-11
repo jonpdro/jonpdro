@@ -1,4 +1,4 @@
-### "Aoba" devs 👋
+### "Aoba" devs 👋🏽
 
 Eu amo programar e aprender mais sobre o mundo da tecnologia, quero fazer parte dessa revolução.
 
