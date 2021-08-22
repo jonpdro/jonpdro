@@ -16,7 +16,7 @@ public static void main(String args[]){
     me.nicknames = "Jon, Jordan, JP";
     me.applications = "Java, C#, CSS, HTML, PHP, SQL";
     me.tools = "Git, VSCode, Eclipse, MySQL";
-    me.skills = "Front-end, Back-end, Database,SoftSkills";
+    me.skills = "Front-end, Back-end, Database, SoftSkills";
 }
 ```
 
