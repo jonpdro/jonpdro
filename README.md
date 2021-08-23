@@ -27,7 +27,7 @@ public static void main(String args[]){
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/jonpdro"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&theme=outrun&custom_title=Linguagens&layout=compact&hide_langs_below=1"/>|<a href="https://github.com/jonpdro"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&custom_title=Estatísticas&theme=outrun&line_height=27" alt="JoãoPedro github stats" /></a>
+<a href="https://github.com/jonpdro"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonpdro&theme=midnight-purple&custom_title=Linguagens&layout=compact&hide_langs_below=1"/>|<a href="https://github.com/jonpdro"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonpdro&show_icons=true&custom_title=Estatísticas&theme=midnight-purple&line_height=27" alt="JoãoPedro github stats" /></a>
 |--|--|
 
 #### Rede Sociais!
