@@ -4,7 +4,7 @@ Eu amo programar e aprender mais sobre o mundo da tecnologia, quero fazer parte 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" height="200" width="330" src="https://25.media.tumblr.com/99ee923212b0aa54ea03c6717baccf39/tumblr_mp0k07DnzH1sucxz9o1_500.gif" />
+<img align="right" height="215" width="330" src="https://25.media.tumblr.com/99ee923212b0aa54ea03c6717baccf39/tumblr_mp0k07DnzH1sucxz9o1_500.gif" />
 
 ```java
 public static void main(String args[]){
