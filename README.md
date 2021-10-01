@@ -14,8 +14,10 @@ public static void main(String args[]){
     me.name = "João Pedro C. Gomes";
     me.years = 18;
     me.nicknames = "Jon, Jordan, JP";
-    me.applications = "Java, C#, CSS, HTML, PHP, SQL, JavaScript, TypeScript";
-    me.tools = "Git, VSCode, Eclipse, MySQL, Spring Boot, Insomnia, Heroku";
+    me.applications = "Java, C#, CSS, HTML, PHP,
+                        SQL, JavaScript, TypeScript";
+    me.tools = "Git, VSCode, Eclipse, MySQL, 
+                    Spring Boot, Insomnia, Heroku";
     me.skills = "FullStack, SoftSkills";
 }
 ```
