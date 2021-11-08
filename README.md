@@ -1,24 +1,20 @@
-### "Aoba" devs 👋🏽
+## "Aoba" dev's! 👋🏽
 
 Eu amo programar e aprender mais sobre o mundo da tecnologia, quero fazer parte dessa revolução.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" height="220" width="330" src="https://25.media.tumblr.com/99ee923212b0aa54ea03c6717baccf39/tumblr_mp0k07DnzH1sucxz9o1_500.gif" />
+<img align="right" height="220" width="330" src="https://i.pinimg.com/originals/08/00/a7/0800a7ee0d4d8b11a7ed297dd64fb488.gif" />
 
 ```java
 public static void main(String args[]){
 
     Dev me = new Dev();
 
-    me.name = "João Pedro C. Gomes";
-    me.years = 18;
-    me.nicknames = "Jon, Jordan, JP";
-    me.applications = "Java, C#, CSS, HTML, PHP,
-                        SQL, JavaScript, TypeScript";
-    me.tools = "Git, VSCode, Eclipse, MySQL, 
-                    Spring Boot, Insomnia, Heroku";
-    me.skills = "FullStack, SoftSkills";
+    me.name = "João Pedro da Cruz Gomes"
+    me.years = "18"
+    me.languages = "Java, C#, PHP, TypeScript, JavaScript, SCSS"
+    me.technologies = "Fullstack Developer"
 }
 ```
 
