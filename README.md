@@ -13,7 +13,7 @@ public static void main(String args[]){
 
     me.name = "João Pedro da Cruz Gomes"
     me.years = "18"
-    me.languages = "Java, C#, PHP, TypeScript, JavaScript, SCSS"
+    me.languages = "Java and TypeScript"
     me.technologies = "Fullstack Developer"
 }
 ```
