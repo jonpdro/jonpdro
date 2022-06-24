@@ -11,8 +11,8 @@ public static void main(String args[]){
 
     Dev me = new Dev();
 
-    me.name = "João Pedro da Cruz Gomes"
-    me.years = "18"
+    me.name = "João Pedro da Cruz"
+    me.years = "19"
     me.languages = "Java and TypeScript"
     me.technologies = "Fullstack Developer"
 }
